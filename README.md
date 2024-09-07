@@ -17,4 +17,4 @@ The dataset used in this dashboard contains financial data related to orders, sa
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/financial-analysis-dashboard.git
+   git clone https://github.com/Lakradhamza/FINANCIAL-ANALYSIS-REPORT.git
